@@ -1,0 +1,218 @@
+:root {
+  --primary-brand: #4d5ae5;
+  --dark: #2e2f42;
+  --text: #434455;
+  --subtle-text: #8e8f99;
+  --light: #ffffff;
+  --cornflower: #e7e9fc;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--light);
+}
+
+/*_______HEADER_______*/
+
+.logo {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 21px;
+  text-decoration: none;
+  color: var(--primary-brand);
+}
+
+.studio {
+  color: var(--dark);
+}
+
+.header-list {
+  list-style-type: none;
+}
+
+.header-link {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: calc(24 / 16);
+  color: var(--dark);
+  text-decoration: none;
+}
+
+.header-link:hover {
+  color: var(--primary-brand);
+}
+
+.call {
+  list-style-type: none;
+}
+
+
+.contacts {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: calc(24 / 16);
+  color: var(--text);
+  text-decoration: none;
+}
+
+.contacts:hover {
+  color: var(--primary-brand);
+}
+
+/*_______CARD_______ */
+
+.service {
+  color: var(--light);
+  background-color: var(--dark);
+  font-weight: 600;
+}
+
+.title {
+  font-size: 56px;
+  line-height: calc(60 / 56);
+}
+
+.service-btn {
+  font-family: inherit;
+  font-size: 16px;
+  line-height: calc(19 / 16);
+  background: var(--primary-brand);
+  cursor: pointer;
+  color: var(--light);
+}
+
+.service-btn :hover {
+  background: var(--primary-brand);
+}
+
+/*_______OUR ADVENTAGES_______*/
+
+.adventages-list {
+  list-style-type: none;
+}
+
+.quality {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: calc(24 / 20);
+  color: var(--dark);
+}
+
+.descript {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: calc(24 / 16);
+  color: var(--text);
+}
+
+/*_______OUR WORK_______ */
+
+.our-work-list {
+  list-style-type: none;
+}
+
+.our-work {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: calc(40 / 36);
+  color: var(--dark);
+}
+
+/*_______TEAM_______ */
+
+.our-team {
+background-color: var(--light);
+}
+
+.team-list {
+  list-style-type: none;
+}
+
+.team-title {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: calc(40 / 36);
+  color: var(--dark);
+}
+
+.personal {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: calc(24 / 20);
+  color: var(--dark);
+}
+.position {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--text);
+}
+
+/*_______FOOTER_______ */
+.footer {
+  background: var(--dark);
+}
+
+.bottom {
+  color: #f4f4fd;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: calc(21 / 18);
+}
+
+.text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: calc(24 / 16);
+  color: var(--cornflower);
+}
+
+/* _______________________PORTFOLIO______________________ */
+
+/* _______FILTERS_______ */
+
+.filters-list {
+  list-style-type: none;
+}
+
+.filters {
+  font-family: inherit;
+  background: var(--light);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: calc(24 / 16);
+  color: var(--primary-brand);
+  cursor: pointer;
+}
+
+.filters:hover,
+.filters:focus {
+  color: var(--light);
+  background-color: var(--primary-brand);
+}
+
+.all {
+  color: #ffffff;
+  background-color: var(--primary-brand);
+}
+
+.portfolio-list {
+  list-style-type: none;
+}
+
+
+.row {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: calc(24 / 20);
+  color: var(--dark);
+}
+
+.row-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: calc(24 / 16);
+  color: var(--text);
+}
