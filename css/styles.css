@@ -41,6 +41,8 @@ body {
 .header {
 	background-color: var(--light);
 	border-bottom: 0.5px solid var(--cornflower);
+	padding-top: 24px;
+	padding-bottom: 24px;
 }
 
 .header-container {
@@ -78,8 +80,6 @@ body {
 
 .list-item {
 	margin-left: 40px;
-	padding-top: 24px;
-	padding-bottom: 24px;
 }
 
 .list-item:first-child {
