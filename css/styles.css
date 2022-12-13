@@ -63,7 +63,7 @@ body {
 	font-style: normal;
 	font-weight: 800;
 	font-size: 18px;
-	line-height: calc(21 / 18);
+	line-height: calc(21 / 18)px;
 	text-decoration: none;
 	color: var(--primary-brand);
 }
@@ -89,7 +89,7 @@ body {
 .header-link {
 	font-weight: 600;
 	font-size: 16px;
-	line-height: calc(24 / 16);
+	line-height: calc(24 / 16)px;
 	color: var(--dark);
 	text-decoration: none;
 	padding-top: 24px;
@@ -124,7 +124,7 @@ body {
 .contacts {
 	font-weight: 400;
 	font-size: 16px;
-	line-height: calc(24 / 16);
+	line-height: calc(24 / 16)px;
 	color: var(--text);
 	text-decoration: none;
 	padding-top: 24px;
@@ -159,7 +159,7 @@ body {
 
 .title {
 	font-size: 56px;
-	line-height: calc(60 / 56);
+	line-height: calc(60 / 56)px;
 	max-width: 492px;
 	margin-top: 0px;
 	margin-bottom: 48px;
@@ -169,7 +169,7 @@ body {
 	display: block;
 	font-family: inherit;
 	font-size: 16px;
-	line-height: calc(19 / 16);
+	line-height: calc(19 / 16)px;
 	background: var(--primary-brand);
 	cursor: pointer;
 	color: var(--light);
@@ -209,14 +209,14 @@ body {
 .quality {
 	font-weight: 600;
 	font-size: 20px;
-	line-height: calc(24 / 20);
+	line-height: calc(24 / 20)px;
 	color: var(--dark);
 }
 
 .descript {
 	font-weight: 400;
 	font-size: 16px;
-	line-height: calc(24 / 16);
+	line-height: calc(24 / 16)px;
 	color: var(--text);
 }
 
@@ -237,7 +237,7 @@ body {
 	font-family: "Roboto";
 	font-weight: 600;
 	font-size: 36px;
-	line-height: calc(40 / 36);
+	line-height: calc(40 / 36)px;
 }
 
 .our-work-list {
@@ -249,7 +249,7 @@ body {
 .our-work {
 	font-weight: 600;
 	font-size: 36px;
-	line-height: calc(40 / 36);
+	line-height: calc(40 / 36)px;
 	color: var(--dark);
 	margin: 0px;
 	padding-bottom: 120px;
@@ -291,7 +291,7 @@ body {
 .team-title {
 	font-weight: 600;
 	font-size: 36px;
-	line-height: calc(40 / 36);
+	line-height: calc(40 / 36)px;
 	color: var(--dark);
 	margin-top: 0px;
 	margin-bottom: 120px;
@@ -301,7 +301,7 @@ body {
 .personal {
 	font-weight: 600;
 	font-size: 20px;
-	line-height: calc(24 / 20);
+	line-height: calc(24 / 20)px;
 	color: var(--dark);
 	margin-top: 0px;
 	margin-bottom: 8px;
@@ -331,7 +331,7 @@ body {
 	color: #f4f4fd;
 	font-weight: 800;
 	font-size: 18px;
-	line-height: calc(21 / 18);
+	line-height: calc(21 / 18)px;
 }
 
 .down-logo {
@@ -341,7 +341,7 @@ body {
 .text {
 	font-weight: 400;
 	font-size: 16px;
-	line-height: calc(24 / 16);
+	line-height: calc(24 / 16)px;
 	color: var(--cornflower);
 	margin: 0px;
 	max-width: 264px;
@@ -373,7 +373,7 @@ margin-bottom: 72px;
 	background: var(--light);
 	font-weight: 600;
 	font-size: 16px;
-	line-height: calc(24 / 16);
+	line-height: calc(24 / 16)px;
 	color: var(--primary-brand);
 	cursor: pointer;
 	display: flex;
@@ -431,7 +431,7 @@ margin-bottom: 72px;
 .row {
 	font-weight: 600;
 	font-size: 20px;
-	line-height: calc(24 / 20);
+	line-height: calc(24 / 20)px;
 	color: var(--dark);
 	margin-top: 0px;
 	margin-bottom: 8px;
@@ -440,7 +440,7 @@ margin-bottom: 72px;
 .row-text {
 	font-weight: 400;
 	font-size: 16px;
-	line-height: calc(24 / 16);
+	line-height: calc(24 / 16)px;
 	color: var(--text);
 	margin: 0px;
 }
